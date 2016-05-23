@@ -1,0 +1,3 @@
+# algorithm to solve arg min_{x} \frac{1}{2*sigma^{2})*||a.x - b||_{2}^{2} + lambda*||x||_{1} via replica method
+# packages to be installed: mpmath, scipy polynomials legendre and laguerre
+
